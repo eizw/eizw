@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eizw
+- 👋 I’m @eizw
 - 👀 Interested in computer programming/computers in general
 - 🌱 A soon-to-be Computer Science degree student
 - Twitter: @hamzy1337

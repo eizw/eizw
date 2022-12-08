@@ -1,4 +1,3 @@
-- 👋 I’m @eizw
 - 👀 Interested in computer programming/computers in general
 - 🌱 A Computer Science degree student at Universiti Kebangsaan Malaysia
 - Twitter: @hmmzhh

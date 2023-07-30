@@ -1,6 +1,7 @@
 - 👀 Interested in computer programming/computers in general
 - 🌱 A Computer Science degree student at Universiti Kebangsaan Malaysia
 - Twitter: @hmmzhh
+- Instagram: @mzy.ha
 - Discord: Eizw#1152
 
 <!---

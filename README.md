@@ -13,8 +13,7 @@
 # Wsg
 Interested in computer programming/computers in general
 Computer Science degree student at Universiti Kebangsaan Malaysia (2nd Year)
-> Hobby includes sitting and sleeping
-> Also includes reconsidering life decisions
+> Hobby includes sitting and reconsidering life decisions
 
 ## Find me here
 - Twitter: @hmmzhh :bird:

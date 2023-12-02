@@ -36,7 +36,7 @@ Computer Science degree student at Universiti Kebangsaan Malaysia (2nd Year)
 ## Why not
 - Fav food: `Anything halal tbh`
 - Ballin: `fr`
-- Real: `Real`
+- real: `real`
 <!---
 eizw/eizw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,16 +1,22 @@
 <p align="center">
 . 　　　。　　　　•　 　ﾟ　　。 　　.
-
+</p>
+<p align="center">
 　　　.　　　 　　.　　　　　。　　 。　. 　
-
+</p>
+<p align="center">
 .　　 。　　　　　 ඞ 。 . 　　 • 　　　　•
-
+</p>
+<p align="center">
 　　ﾟ　　     was not An Impostor.　 。　.
-
+</p>
+<p align="center">
 　　'　　　     2 Impostors remain 　 　　。
-
+</p>
+<p align="center">
 　　ﾟ　　　.　　　. ,　　　　.　 .
 </p>
+
 
 # Wsg
 Interested in computer programming/computers in general

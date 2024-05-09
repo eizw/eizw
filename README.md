@@ -31,15 +31,15 @@ Computer Science degree student at Universiti Kebangsaan Malaysia (2nd Year) <br
 ## Bucode List
 ### Languages
 - [x] JS
-- [ ] TS
-- [x] Python (inc powercreep by c++ :))
+- [x] TS
+- [x] Python
 - [ ] Rust
-- [ ] C++
+- [x] C++/C
 ### Frameworks
-- [ ] Django
+- [x] Django
 - [x] React (NextJS otw)
-- [ ] Angular
-- [ ] NumPy, Pandas, TF (machine learning stuf)
+- [x] Angular
+- [x] NumPy, Pandas, TF
 
 ## Why not
 - Fav food: `Anything halal tbh`

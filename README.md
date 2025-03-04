@@ -20,7 +20,7 @@
 
 # Wsg
 Interested in computer programming/computers in general
-Computer Science degree student at Universiti Kebangsaan Malaysia (2nd Year) <br />
+Computer Science degree student at Universiti Kebangsaan Malaysia (3rd Year) <br />
 > Hobby includes sitting and reconsidering life decisions
 
 ## Find me here

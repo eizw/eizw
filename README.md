@@ -25,7 +25,7 @@ Computer Science degree student at Universiti Kebangsaan Malaysia (3rd Year) <br
 
 ## Find me here
 - Twitter: @hmmzhh :bird:
-- Instagram: @h2m2y 📷
+- Instagram: @hrmzuh 📷
 - Discord: eizw 🎮
 
 ## Bucode List
